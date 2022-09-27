@@ -11,9 +11,9 @@ module.exports = {
         primary: "#6d28d9",
         dark: "#0f172a",
       },
-    },
-    screens: {
-      "2xl": "1320px",
+      screens: {
+        "2xl": "1320px",
+      },
     },
   },
   plugins: [],
